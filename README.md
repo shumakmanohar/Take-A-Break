@@ -18,7 +18,7 @@ ____
 
 ## Images
 
-!["Couner"](/images/counter.png)
-!["LOADER "](/images/loader.png)![](/images/Rest.png)
+* !["Couner"](/images/counter.png)
+* !["LOADER "](/images/loader.png)![](/images/Rest.png)
 
-![](/images/Notification.png)
+* ![](/images/Notification.png)
