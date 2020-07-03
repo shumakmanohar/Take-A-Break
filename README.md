@@ -2,7 +2,7 @@
 
 **Version 1.0.0.**
 
-Take A Break is an Destop App,
+Take A Break is an Desktop App,
 which helps you to protect your eyes while your are working on the computer.
 Take A Break works on the principle of 20-20-20 Rule.
 ____
